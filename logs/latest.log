@@ -1,0 +1,1001 @@
+[01:53:36] [main/INFO]: ModLauncher running: args [--username, PrachtkerleDE, --version, 1.20.1, --gameDir, C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication, --assetsDir, C:\Users\sani2\AppData\Roaming\ModrinthApp\meta\assets, --assetIndex, 5, --uuid, ec9efed1ae214f20b77c9e24101c2cf3, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 47.1.106, --fml.fmlVersion, 47.2.2, --fml.mcVersion, 1.20.1, --fml.mcpVersion, 20230612.114412]
+[01:53:36] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[01:53:36] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[01:53:36] [main/INFO]: Trying GL version 4.6
+[01:53:36] [main/INFO]: Requested GL version 4.6 got version 4.6
+[01:53:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/sani2/AppData/Roaming/ModrinthApp/meta/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23154!/ Service=ModLauncher Env=CLIENT
+[01:53:37] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce RTX 4070/PCIe/SSE2 GL version 4.6.0 NVIDIA 610.74, NVIDIA Corporation
+[01:53:37] [main/INFO]: Found mod file "copycats-3.0.7+mc.1.20.1-forge.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "create-1.20.1-6.0.8.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "create_enchantment_industry-1.4.0-for-create-6.0.8.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "create_more_additions-2.0.0-forge-1.20.1.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "createsifter-1.20.1-1.8.6-6.0.6.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "EnderIO-1.20.1-6.2.18-beta-all.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "exnihilomekanism-1.20.1-5.0.0-build.2-beta.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "exnihilosequentia-1.20.1-5.0.0-build.10.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "LibX-1.20.1-5.0.14.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "Mekanism-1.20.1-10.4.16.80.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "MekanismGenerators-1.20.1-10.4.16.80.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "novacore-1.20.1-1.0.0-build.3.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "pipez-1.20.1-1.2.5.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "refinedstorage-1.12.4.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "SkyblockBuilder-1.20.1-5.1.28.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "Steam_Rails-1.7.2+forge-mc1.20.1.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "supermartijn642configlib-1.1.8-forge-mc1.20.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "supermartijn642corelib-1.1.12a-forge-mc1.20.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/INFO]: Found mod file "trashcans-1.0.18a-forge-mc1.20.jar" of type MOD with provider {mods folder locator at C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\mods}
+[01:53:37] [main/WARN]: Mod file C:\Users\sani2\AppData\Roaming\ModrinthApp\meta\libraries\net\neoforged\fancymodloader\core\47.2.2\core-47.2.2.jar is missing mods.toml file
+[01:53:37] [main/WARN]: Mod file C:\Users\sani2\AppData\Roaming\ModrinthApp\meta\libraries\net\neoforged\fancymodloader\language-java\47.2.2\language-java-47.2.2.jar is missing mods.toml file
+[01:53:37] [main/WARN]: Mod file C:\Users\sani2\AppData\Roaming\ModrinthApp\meta\libraries\net\neoforged\fancymodloader\language-lowcode\47.2.2\language-lowcode-47.2.2.jar is missing mods.toml file
+[01:53:37] [main/WARN]: Mod file C:\Users\sani2\AppData\Roaming\ModrinthApp\meta\libraries\net\neoforged\fancymodloader\language-minecraft\47.2.2\language-minecraft-47.2.2.jar is missing mods.toml file
+[01:53:37] [main/INFO]: Found mod file "core-47.2.2.jar" of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2160e52a
+[01:53:37] [main/INFO]: Found mod file "language-java-47.2.2.jar" of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2160e52a
+[01:53:37] [main/INFO]: Found mod file "language-lowcode-47.2.2.jar" of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2160e52a
+[01:53:37] [main/INFO]: Found mod file "language-minecraft-47.2.2.jar" of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2160e52a
+[01:53:37] [main/INFO]: Found mod file "client-1.20.1-20230612.114412-srg.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2160e52a
+[01:53:37] [main/INFO]: Found mod file "forge-1.20.1-47.1.106-universal.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2160e52a
+[01:53:37] [main/INFO]: Found mod file "events-47.2.2.jar" of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.BuiltinGameLibraryLocator@464a4442
+[01:53:37] [main/INFO]: Found 6 dependencies adding them to mods collection
+[01:53:37] [main/INFO]: Found mod file "mixinextras-forge-0.5.3.jar" of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e8604bf
+[01:53:37] [main/INFO]: Found mod file "GraphLib3-3.0.7.jar" of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e8604bf
+[01:53:37] [main/INFO]: Found mod file "MixinExtras-0.5.3.jar" of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e8604bf
+[01:53:37] [main/INFO]: Found mod file "flywheel-forge-1.20.1-1.0.5.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e8604bf
+[01:53:37] [main/INFO]: Found mod file "Ponder-Forge-1.20.1-1.0.91.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e8604bf
+[01:53:37] [main/INFO]: Found mod file "Registrate-MC1.20-1.3.11.jar" of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@5e8604bf
+[01:53:38] [main/INFO]: Compatibility level set to JAVA_17
+[01:53:38] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication, --assetsDir, C:\Users\sani2\AppData\Roaming\ModrinthApp\meta\assets, --uuid, ec9efed1ae214f20b77c9e24101c2cf3, --username, PrachtkerleDE, --assetIndex, 5, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[01:53:39] [main/WARN]: Error loading class: xaero/map/gui/GuiMap (java.lang.ClassNotFoundException: xaero.map.gui.GuiMap)
+[01:53:39] [main/WARN]: @Mixin target xaero.map.gui.GuiMap was not found create.mixins.json:compat.xaeros.XaeroFullscreenMapAccessor
+[01:53:39] [main/WARN]: Error loading class: xaero/map/gui/GuiMap (java.lang.ClassNotFoundException: xaero.map.gui.GuiMap)
+[01:53:39] [main/WARN]: @Mixin target xaero.map.gui.GuiMap was not found create.mixins.json:compat.xaeros.XaeroFullscreenMapMixin
+[01:53:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[12Juli2026 01:53:43.076] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 188 Datafixer optimizations took 84 milliseconds
+[12Juli2026 01:53:43.998] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/sani2/AppData/Roaming/ModrinthApp/meta/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23200!/assets/.mcassetsroot' uses unexpected schema
+[12Juli2026 01:53:43.998] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/sani2/AppData/Roaming/ModrinthApp/meta/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23200!/data/.mcassetsroot' uses unexpected schema
+[12Juli2026 01:53:44.012] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12Juli2026 01:53:44.422] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: PrachtkerleDE
+[12Juli2026 01:53:44.483] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[12Juli2026 01:53:44.649] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.8 initializing! Commit hash: 1a1a9a2819b4f89f78caec41b55ed8cb222fa24b
+[12Juli2026 01:53:44.688] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.7.2 initializing! Commit hash: 7c1a21e3a4edbd6b5f1301f82a8bfbeb5fdb1444 on Create version: 6.0.8 on platform: Forge
+[12Juli2026 01:53:44.705] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: NeoForge mod loading, version 47.1.106, for MC 1.20.1 with MCP 20230612.114412
+[12Juli2026 01:53:44.705] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: NeoForge v47.1.106 Initialized
+[12Juli2026 01:53:44.755] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\createsifter-common.toml is not correct. Correcting
+[12Juli2026 01:53:44.755] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\exnihilosequentia-common.toml is not correct. Correcting
+[12Juli2026 01:53:44.758] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sifter was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.758] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pebble was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.759] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sifter.stressImpact was corrected from null to its default, 4.0. 
+[12Juli2026 01:53:44.759] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pebble.pebbleDamage was corrected from null to its default, 0. 
+[12Juli2026 01:53:44.759] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key pebble.enableThrowable was corrected from null to its default, true. 
+[12Juli2026 01:53:44.759] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sifter.minimumSpeed was corrected from null to its default, 1.0. 
+[12Juli2026 01:53:44.759] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sifter.outputCapacity was corrected from null to its default, 16. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.barrelNumberOfBuckets was corrected from null to its default, 1. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brass_sifter was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.rainFillAmount was corrected from null to its default, 2. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brass_sifter.stressImpact was corrected from null to its default, 8.0. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.woodBarrelMaxTemp was corrected from null to its default, 300. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.showParticles was corrected from null to its default, true. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brass_sifter.minimumSpeed was corrected from null to its default, 16.0. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.netherBarrelSoundsEnabled was corrected from null to its default, true. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key brass_sifter.outputCapacity was corrected from null to its default, 8. 
+[12Juli2026 01:53:44.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.mob_spawn was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.764] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.mob_spawn.secondsToSpawnMobs was corrected from null to its default, 10. 
+[12Juli2026 01:53:44.764] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.compost was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.764] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.compost.maxSolidAmount was corrected from null to its default, 1000. 
+[12Juli2026 01:53:44.764] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.compost.secondsToCompost was corrected from null to its default, 10. 
+[12Juli2026 01:53:44.764] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.fluid_transform was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.764] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key barrel.fluid_transform.secondsToTransformFluid was corrected from null to its default, 10. 
+[12Juli2026 01:53:44.765] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crook was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.765] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crook.maxBonusStringCount was corrected from null to its default, 3. 
+[12Juli2026 01:53:44.765] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crook.minStringCount was corrected from null to its default, 2. 
+[12Juli2026 01:53:44.765] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crook.vanillaDropSimulateCount was corrected from null to its default, 3. 
+[12Juli2026 01:53:44.767] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crucible was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.767] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crucible.ticksBetweenMelts was corrected from null to its default, 20. 
+[12Juli2026 01:53:44.767] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crucible.crucibleNumberOfBuckets was corrected from null to its default, 4. 
+[12Juli2026 01:53:44.767] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crucible.netherCrucibleSoundsEnabled was corrected from null to its default, true. 
+[12Juli2026 01:53:44.767] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crucible.wood was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.767] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crucible.wood.woodHeatRate was corrected from null to its default, 2. 
+[12Juli2026 01:53:44.768] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key infested_leaves was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.768] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key infested_leaves.secondsToTransformLeaves was corrected from null to its default, 10. 
+[12Juli2026 01:53:44.768] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key infested_leaves.spreadChance was corrected from null to its default, 0.3. 
+[12Juli2026 01:53:44.768] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key infested_leaves.ticksBetweenSpreadAttempt was corrected from null to its default, 100. 
+[12Juli2026 01:53:44.769] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sieve was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.769] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sieve.flattenSieveRecipes was corrected from null to its default, true. 
+[12Juli2026 01:53:44.769] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sieve.sieveRange was corrected from null to its default, 2. 
+[12Juli2026 01:53:44.769] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sieve.enableMeshDurability was corrected from null to its default, false. 
+[12Juli2026 01:53:44.769] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sieve.meshStackSize was corrected from null to its default, 64. 
+[12Juli2026 01:53:44.769] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sieve.maxSieveClicks was corrected from null to its default, 10. 
+[12Juli2026 01:53:44.769] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sieve.netherSieveSoundsEnabled was corrected from null to its default, true. 
+[12Juli2026 01:53:44.770] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.770] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableOreOverride was corrected from null to its default, false. 
+[12Juli2026 01:53:44.770] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableCopper was corrected from null to its default, true. 
+[12Juli2026 01:53:44.770] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableLead was corrected from null to its default, true. 
+[12Juli2026 01:53:44.770] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableNickel was corrected from null to its default, true. 
+[12Juli2026 01:53:44.770] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableSilver was corrected from null to its default, true. 
+[12Juli2026 01:53:44.770] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableTin was corrected from null to its default, true. 
+[12Juli2026 01:53:44.770] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableAluminum was corrected from null to its default, true. 
+[12Juli2026 01:53:44.771] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enablePlatinum was corrected from null to its default, true. 
+[12Juli2026 01:53:44.771] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableUranium was corrected from null to its default, true. 
+[12Juli2026 01:53:44.771] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableZinc was corrected from null to its default, true. 
+[12Juli2026 01:53:44.771] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableIron was corrected from null to its default, true. 
+[12Juli2026 01:53:44.771] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ore.enableGold was corrected from null to its default, true. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.hammer was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.hammer.hammerWoodValue was corrected from null to its default, 128. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.hammer.hammerStoneValue was corrected from null to its default, 256. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.hammer.hammerIronValue was corrected from null to its default, 512. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.hammer.hammerGoldValue was corrected from null to its default, 64. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.hammer.hammerDiamondValue was corrected from null to its default, 4096. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.hammer.hammerNetheriteValue was corrected from null to its default, 8192. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook.crookWoodValue was corrected from null to its default, 128. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook.crookStoneValue was corrected from null to its default, 256. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook.crookAndesiteValue was corrected from null to its default, 256. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook.crookGraniteValue was corrected from null to its default, 256. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook.crookDioriteValue was corrected from null to its default, 256. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook.crookGoldValue was corrected from null to its default, 64. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook.crookIronValue was corrected from null to its default, 512. 
+[12Juli2026 01:53:44.772] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook.crookDiamondValue was corrected from null to its default, 2048. 
+[12Juli2026 01:53:44.773] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook.crookNetheriteValue was corrected from null to its default, 8192. 
+[12Juli2026 01:53:44.773] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.crook.crookBoneValue was corrected from null to its default, 256. 
+[12Juli2026 01:53:44.773] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.mesh was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:44.773] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.mesh.meshStringValue was corrected from null to its default, 59. 
+[12Juli2026 01:53:44.773] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.mesh.meshFlintValue was corrected from null to its default, 131. 
+[12Juli2026 01:53:44.773] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.mesh.meshIronValue was corrected from null to its default, 250. 
+[12Juli2026 01:53:44.773] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.mesh.meshDiamondValue was corrected from null to its default, 1561. 
+[12Juli2026 01:53:44.773] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.mesh.meshEmeraldValue was corrected from null to its default, 1561. 
+[12Juli2026 01:53:44.773] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key durability.mesh.meshNetheriteValue was corrected from null to its default, 2031. 
+[12Juli2026 01:53:44.961] [modloading-worker-0/INFO] [libx/]: Config 'skyblockbuilder:inventory' does not exist. Creating default.
+[12Juli2026 01:53:45.014] [modloading-worker-0/INFO] [libx/]: Config 'skyblockbuilder:templates' does not exist. Creating default.
+[12Juli2026 01:53:45.026] [modloading-worker-0/INFO] [libx/]: Config 'skyblockbuilder:structures' does not exist. Creating default.
+[12Juli2026 01:53:45.037] [modloading-worker-0/INFO] [libx/]: Config 'skyblockbuilder:permissions' does not exist. Creating default.
+[12Juli2026 01:53:45.076] [modloading-worker-0/INFO] [libx/]: Config 'skyblockbuilder:spawn' does not exist. Creating default.
+[12Juli2026 01:53:45.079] [modloading-worker-0/INFO] [libx/]: Config 'skyblockbuilder:customization' does not exist. Creating default.
+[12Juli2026 01:53:45.085] [modloading-worker-0/INFO] [libx/]: Config 'skyblockbuilder:dimensions' does not exist. Creating default.
+[12Juli2026 01:53:45.086] [modloading-worker-0/INFO] [libx/]: Config 'skyblockbuilder:world' does not exist. Creating default.
+[12Juli2026 01:53:45.247] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 2 RS API injection points
+[12Juli2026 01:53:45.250] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.enderio.conduits.common.integrations.refinedstorage.RSTicker RSAPI
+[12Juli2026 01:53:45.255] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Injected RS API in com.enderio.conduits.common.integrations.refinedstorage.RSNodeHost RSAPI
+[12Juli2026 01:53:46.428] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[12Juli2026 01:53:46.640] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[12Juli2026 01:53:46.657] [Railways Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 5 Datafixer optimizations took 4 milliseconds
+[12Juli2026 01:53:46.658] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:track_signal in minecraft:block_entity_type
+[12Juli2026 01:53:46.658] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:track_signal_source in create:display_source
+[12Juli2026 01:53:46.659] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:copycat in minecraft:block_entity_type
+[12Juli2026 01:53:46.659] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:conductor_vent in minecraft:block
+[12Juli2026 01:53:46.659] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.659] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.659] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:brown_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:brown_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:brown_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:maroon_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:maroon_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:maroon_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:red_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:red_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.660] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.661] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:red_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.661] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.661] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:vermilion_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.661] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.661] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:vermilion_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.661] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.661] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:vermilion_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.661] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.661] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:orange_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.661] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:orange_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:orange_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:granite_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:granite_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:granite_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:dripstone_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:dripstone_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:dripstone_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:ochrum_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:ochrum_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:ochrum_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.662] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:yellow_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:yellow_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:yellow_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:chartreuse_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:chartreuse_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:chartreuse_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:olive_green_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:olive_green_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:olive_green_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:lime_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:lime_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:lime_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:green_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:green_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:green_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pine_green_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pine_green_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pine_green_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:cyan_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:cyan_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:cyan_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.663] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:sea_green_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:sea_green_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:sea_green_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:turquoise_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:turquoise_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:turquoise_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_blue_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_blue_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_blue_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:blue_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:blue_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:blue_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:royal_blue_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:royal_blue_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:royal_blue_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:purple_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:purple_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:purple_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.664] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:magenta_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:magenta_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:magenta_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pink_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pink_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:pink_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:white_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:white_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:white_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:diorite_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:diorite_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:diorite_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:limestone_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:limestone_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:limestone_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_gray_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_gray_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:light_gray_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:tuff_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:tuff_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:tuff_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:gray_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:gray_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:gray_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:scorchia_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:scorchia_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.665] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:scorchia_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.666] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:flywheel in minecraft:block_entity_type
+[12Juli2026 01:53:46.666] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:black_locometal_flywheel in minecraft:block
+[12Juli2026 01:53:46.666] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.666] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:black_sliding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.666] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for create:sliding_door in minecraft:block_entity_type
+[12Juli2026 01:53:46.666] [modloading-worker-0/INFO] [Railways/MultiRegistryCallback/]: Registering callback for railways:black_folding_locometal_door in minecraft:block
+[12Juli2026 01:53:46.674] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[12Juli2026 01:53:46.675] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[12Juli2026 01:53:46.676] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[12Juli2026 01:53:46.677] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[12Juli2026 01:53:46.678] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[12Juli2026 01:53:46.679] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[12Juli2026 01:53:46.679] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[12Juli2026 01:53:46.680] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[12Juli2026 01:53:46.681] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[12Juli2026 01:53:47.030] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: The object novamachina.exnihilosequentia.world.level.material.WitchWaterFluid$Source@334d825c has been registered twice for the same name exnihilosequentia:witch_water.
+[12Juli2026 01:53:47.030] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: The object novamachina.exnihilosequentia.world.level.material.WitchWaterFluid$Flowing@e2d9923 has been registered twice for the same name exnihilosequentia:witch_water_flow.
+[12Juli2026 01:53:47.030] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: The object novamachina.exnihilosequentia.world.level.material.SeaWaterFluid$Source@56820446 has been registered twice for the same name exnihilosequentia:sea_water.
+[12Juli2026 01:53:47.030] [Render thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: The object novamachina.exnihilosequentia.world.level.material.SeaWaterFluid$Flowing@1b82f62a has been registered twice for the same name exnihilosequentia:sea_water_flow.
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:brown_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:maroon_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:red_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:vermilion_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:orange_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:granite_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:dripstone_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:ochrum_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:yellow_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:chartreuse_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:olive_green_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:lime_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:green_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:pine_green_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:cyan_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:sea_green_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:turquoise_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:light_blue_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:blue_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:royal_blue_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:purple_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:magenta_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:pink_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:white_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:diorite_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:limestone_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:light_gray_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:tuff_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:gray_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:scorchia_locometal_flywheel
+[12Juli2026 01:53:48.284] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:flywheel and railways:black_locometal_flywheel
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:brown_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:brown_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:maroon_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:maroon_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:red_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:red_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:vermilion_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:vermilion_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:orange_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:orange_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:granite_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:granite_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:dripstone_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:dripstone_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:ochrum_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:ochrum_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:yellow_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:yellow_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:chartreuse_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:chartreuse_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:olive_green_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:olive_green_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:lime_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:lime_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:green_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:green_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:pine_green_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:pine_green_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:cyan_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:cyan_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:sea_green_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:sea_green_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:turquoise_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:turquoise_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:light_blue_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:light_blue_folding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:blue_sliding_locometal_door
+[12Juli2026 01:53:48.285] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:blue_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:royal_blue_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:royal_blue_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:purple_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:purple_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:magenta_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:magenta_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:pink_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:pink_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:white_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:white_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:diorite_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:diorite_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:limestone_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:limestone_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:light_gray_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:light_gray_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:tuff_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:tuff_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:gray_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:gray_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:scorchia_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:scorchia_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:black_sliding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:sliding_door and railways:black_folding_locometal_door
+[12Juli2026 01:53:48.286] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:copycat and railways:conductor_vent
+[12Juli2026 01:53:48.544] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running callback for create:track_signal and railways:track_signal_source
+[12Juli2026 01:53:48.544] [Render thread/INFO] [Railways/MultiRegistryCallback/]: Running finalizers
+[12Juli2026 01:53:48.661] [Render thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Sorting datapack list to load data correctly.
+[12Juli2026 01:53:48.661] [Render thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Sorting datapack list to load data correctly.
+[12Juli2026 01:53:49.084] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[12Juli2026 01:53:49.097] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\enderio\base-client.toml is not correct. Correcting
+[12Juli2026 01:53:49.097] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key visual was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.097] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key visual.machineParticles was corrected from null to its default, true. 
+[12Juli2026 01:53:49.099] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\flywheel-client.toml is not correct. Correcting
+[12Juli2026 01:53:49.099] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key backend was corrected from null to its default, DEFAULT. 
+[12Juli2026 01:53:49.100] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key limitUpdates was corrected from null to its default, true. 
+[12Juli2026 01:53:49.100] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key workerThreads was corrected from null to its default, -1. 
+[12Juli2026 01:53:49.100] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key flw_backends was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.100] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key flw_backends.lightSmoothness was corrected from null to its default, SMOOTH. 
+[12Juli2026 01:53:49.102] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\ponder-client.toml is not correct. Correcting
+[12Juli2026 01:53:49.103] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key comfyReading was corrected from null to its default, false. 
+[12Juli2026 01:53:49.104] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key editingMode was corrected from null to its default, false. 
+[12Juli2026 01:53:49.104] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.104] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[12Juli2026 01:53:49.104] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[12Juli2026 01:53:49.107] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\createsifter-client.toml is not correct. Correcting
+[12Juli2026 01:53:49.108] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sifter was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.108] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sifter.renderSiftedBlock was corrected from null to its default, true. 
+[12Juli2026 01:53:49.108] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sifter.renderMovingMesh was corrected from null to its default, true. 
+[12Juli2026 01:53:49.111] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\refinedstorage-client.toml is not correct. Correcting
+[12Juli2026 01:53:49.111] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key grid was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key grid.maxRowsStretch was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key grid.detailedTooltip was corrected from null to its default, true. 
+[12Juli2026 01:53:49.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key grid.largeFont was corrected from null to its default, false. 
+[12Juli2026 01:53:49.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key grid.preventSortingWhileShiftIsDown was corrected from null to its default, true. 
+[12Juli2026 01:53:49.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key grid.rememberSearchQuery was corrected from null to its default, false. 
+[12Juli2026 01:53:49.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crafterManager was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key crafterManager.maxRowsStretch was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.113] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cover was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.113] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cover.showAllCoversInJEI was corrected from null to its default, false. 
+[12Juli2026 01:53:49.115] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\forge-client.toml is not correct. Correcting
+[12Juli2026 01:53:49.116] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.116] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to its default, false. 
+[12Juli2026 01:53:49.116] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.experimentalForgeLightPipelineEnabled was corrected from null to its default, false. 
+[12Juli2026 01:53:49.116] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showLoadWarnings was corrected from null to its default, true. 
+[12Juli2026 01:53:49.116] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.useCombinedDepthStencilAttachment was corrected from null to its default, false. 
+[12Juli2026 01:53:49.116] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.compressLanIPv6Addresses was corrected from null to its default, true. 
+[12Juli2026 01:53:49.119] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\Mekanism\client.toml is not correct. Correcting
+[12Juli2026 01:53:49.119] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.119] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.enablePlayerSounds was corrected from null to its default, true. 
+[12Juli2026 01:53:49.119] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.enableMachineSounds was corrected from null to its default, true. 
+[12Juli2026 01:53:49.119] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.whiteRadialText was corrected from null to its default, false. 
+[12Juli2026 01:53:49.119] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.holidays was corrected from null to its default, true. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.baseSoundVolume was corrected from null to its default, 1.0. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.opaqueTransmitters was corrected from null to its default, false. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.allowModeScroll was corrected from null to its default, true. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.reverseHUD was corrected from null to its default, false. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.hudScale was corrected from null to its default, 0.6. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.enableHUD was corrected from null to its default, true. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.energyColor was corrected from null to its default, 3997338. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.terRange was corrected from null to its default, 256. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.particle was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.particle.enableMultiblockFormationParticles was corrected from null to its default, true. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.particle.machineEffects was corrected from null to its default, true. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.particle.radiationParticleRadius was corrected from null to its default, 30. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.particle.radiationParticleCount was corrected from null to its default, 100. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.particle.magneticAttraction was corrected from null to its default, true. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.particle.toolAOE was corrected from null to its default, true. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.hudOpacity was corrected from null to its default, 0.4000000059604645. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.hudColor was corrected from null to its default, 4257264. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.hudWarningColor was corrected from null to its default, 16768335. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.hudDangerColor was corrected from null to its default, 16726076. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.hudJitter was corrected from null to its default, 6.0. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.mekaSuitHelmetCompass was corrected from null to its default, true. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.color was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.color.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.color.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.confirmation was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.confirmation.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.confirmation.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.crafting0 was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.crafting0.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.crafting0.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.crafting1 was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.crafting1.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.crafting1.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.crafting2 was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.crafting2.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.crafting2.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.mekaSuitHelmet was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.mekaSuitHelmet.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.mekaSuitHelmet.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.rename was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.rename.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.rename.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.skinSelect was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.skinSelect.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.skinSelect.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.sideConfig was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.sideConfig.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.sideConfig.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.transporterConfig was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.transporterConfig.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.transporterConfig.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.upgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.upgrade.x was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.gui.window.upgrade.y was corrected from null to its default, 2147483647. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.qio was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.qio.itemViewerSortType was corrected from null to its default, NAME. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.qio.itemViewerSortDirection was corrected from null to its default, ASCENDING. 
+[12Juli2026 01:53:49.120] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.qio.itemViewerSlotsX was corrected from null to its default, 8. 
+[12Juli2026 01:53:49.121] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.qio.itemViewerSlotsY was corrected from null to its default, 4. 
+[12Juli2026 01:53:49.123] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\copycats-client.toml is not correct. Correcting
+[12Juli2026 01:53:49.123] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key useEnhancedModels was corrected from null to its default, true. 
+[12Juli2026 01:53:49.124] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableGraphicsWarnings was corrected from null to its default, false. 
+[12Juli2026 01:53:49.124] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key colorizeMultiStates was corrected from null to its default, false. 
+[12Juli2026 01:53:49.126] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\enderio\machines-client.toml is not correct. Correcting
+[12Juli2026 01:53:49.126] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.126] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks.vacuumChestRangeColor was corrected from null to its default, 0000FF. 
+[12Juli2026 01:53:49.126] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks.vacuumXpRangeColor was corrected from null to its default, 00FF00. 
+[12Juli2026 01:53:49.126] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks.poweredSpawnerRangeColor was corrected from null to its default, FF0000. 
+[12Juli2026 01:53:49.126] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks.drainRangeColor was corrected from null to its default, FFA500. 
+[12Juli2026 01:53:49.127] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks.aversionRangeColor was corrected from null to its default, 8B0000. 
+[12Juli2026 01:53:49.127] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ioconfig was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.127] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ioconfig.neighbourTransparency was corrected from null to its default, 0.4. 
+[12Juli2026 01:53:49.129] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\create-client.toml is not correct. Correcting
+[12Juli2026 01:53:49.129] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.129] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[12Juli2026 01:53:49.129] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[12Juli2026 01:53:49.129] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[12Juli2026 01:53:49.129] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.rotateWhenSeated was corrected from null to its default, true. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.fluidFogSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.fluidFogSettings.honey was corrected from null to its default, 1.0. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.fluidFogSettings.chocolate was corrected from null to its default, 1.0. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.jeiIntegration was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.jeiIntegration.syncJeiSearch was corrected from null to its default, true. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.trains.showTrackGraphOnF3 was corrected from null to its default, false. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.trains.showExtendedTrackGraphOnF3 was corrected from null to its default, false. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.trains.showTrainMapOverlay was corrected from null to its default, true. 
+[12Juli2026 01:53:49.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.trains.trainMapColorTheme was corrected from null to its default, RED. 
+[12Juli2026 01:53:49.132] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\railways-client.toml is not correct. Correcting
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showExtendedCouplerDebug was corrected from null to its default, false. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.skipClientDerailing was corrected from null to its default, false. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.useConductorSpyShader was corrected from null to its default, true. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.trackOverlayOffset was corrected from null to its default, 0.0. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.useDevCape was corrected from null to its default, true. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.renderNormalCap was corrected from null to its default, true. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.animatedFlywheels was corrected from null to its default, true. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.universalShadowWrench was corrected from null to its default, false. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.smoke was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.smoke.smokeType was corrected from null to its default, CARTOON. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.smoke.old was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.smoke.old.smokeLifetime was corrected from null to its default, 500. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.smoke.old.smokePercentage was corrected from null to its default, 0.75. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.smoke.old.smokeQuality was corrected from null to its default, HIGH. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.smoke.old.thickerSmoke was corrected from null to its default, true. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.smoke.cartoon was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.smoke.cartoon.spawnFasterPuffs was corrected from null to its default, true. 
+[12Juli2026 01:53:49.133] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.smoke.cartoon.spawnSteam was corrected from null to its default, false. 
+[12Juli2026 01:53:49.137] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\enderio\base-common.toml is not correct. Correcting
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks.brokenSpawner was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks.brokenSpawner.dropChance was corrected from null to its default, 1.0. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks.explosionResistance was corrected from null to its default, 1200.0. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blocks.darkSteelLadderBoost was corrected from null to its default, 0.15. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.autoSmelt was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.autoSmelt.maxCost was corrected from null to its default, 60. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.autoSmelt.minCost was corrected from null to its default, 15. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent.maxLevel was corrected from null to its default, 4. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent.maxCostBase was corrected from null to its default, 10. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent.maxCostPerLevel was corrected from null to its default, 10. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent.minCostBase was corrected from null to its default, 10. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent.minCostPerLevel was corrected from null to its default, 5. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent.chanceBase was corrected from null to its default, 0.35. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent.chancePerLevel was corrected from null to its default, 0.1. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent.rangeBase was corrected from null to its default, 8.0. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent.rangePerLevel was corrected from null to its default, 8.0. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.repellent.nonPlayerChance was corrected from null to its default, 0.75. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.shimmer was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.shimmer.maxCost was corrected from null to its default, 100. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.shimmer.minCost was corrected from null to its default, 1. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.soulBound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.soulBound.maxCost was corrected from null to its default, 60. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.soulBound.minCost was corrected from null to its default, 16. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.witheringBlade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.witheringBlade.maxCost was corrected from null to its default, 100. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.witheringBlade.minCost was corrected from null to its default, 1. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.witheringArrow was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.witheringArrow.maxCost was corrected from null to its default, 100. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.witheringArrow.minCost was corrected from null to its default, 1. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.witheringBolt was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.witheringBolt.maxCost was corrected from null to its default, 100. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.witheringBolt.minCost was corrected from null to its default, 1. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.xpBoost was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.xpBoost.maxCostBase was corrected from null to its default, 30. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.xpBoost.maxCostPerLevel was corrected from null to its default, 10. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.xpBoost.minCostBase was corrected from null to its default, 1. 
+[12Juli2026 01:53:49.138] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantments.xpBoost.minCostPerLevel was corrected from null to its default, 10. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.food was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.food.enderioChance was corrected from null to its default, 0.3. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.food.enderioRange was corrected from null to its default, 16.0. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.electromagnet was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.electromagnet.energyUse was corrected from null to its default, 1. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.electromagnet.maxEnergy was corrected from null to its default, 100000. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.electromagnet.range was corrected from null to its default, 5. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.electromagnet.maxItems was corrected from null to its default, 20. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.levitationstaff was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.levitationstaff.energyUse was corrected from null to its default, 1. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.levitationstaff.maxEnergy was corrected from null to its default, 10000. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.travelling was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.travelling.blinkRange was corrected from null to its default, 24. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.travelling.disabledTime was corrected from null to its default, 5. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.travelling.energyUse was corrected from null to its default, 1000. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.travelling.maxEnergy was corrected from null to its default, 100000. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.travelling.itemToBlockRange was corrected from null to its default, 192. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key items.travelling.blockToBlockRange was corrected from null to its default, 96. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key grainsOfInfinity was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key grainsOfInfinity.makesSound was corrected from null to its default, true. 
+[12Juli2026 01:53:49.139] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key grainsOfInfinity.fireMinAge was corrected from null to its default, 260. 
+[12Juli2026 01:53:49.142] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\Mekanism\common.toml is not correct. Correcting
+[12Juli2026 01:53:49.142] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.142] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.energyType was corrected from null to its default, FORGE_ENERGY. 
+[12Juli2026 01:53:49.142] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.temperatureUnit was corrected from null to its default, KELVIN. 
+[12Juli2026 01:53:49.142] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.enableDecayTimers was corrected from null to its default, true. 
+[12Juli2026 01:53:49.144] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\copycats-common.toml is not correct. Correcting
+[12Juli2026 01:53:49.144] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableMigration was corrected from null to its default, false. 
+[12Juli2026 01:53:49.144] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_stacked_half_layer was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_stairs was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_byte was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_slice was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_wooden_pressure_plate was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_block was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_shaft was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_large_cogwheel was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_fence was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_wall was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_cogwheel was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_step was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_sliding_door was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_folding_door was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_slope_layer was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_light_weighted_pressure_plate was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_stairs was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_fence_gate was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_slab was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_board was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_wooden_button was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_trapdoor was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_stone_pressure_plate was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_pane was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_half_panel was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_slice was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_beam was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_door was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_iron_door was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_byte_panel was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_corner_slice was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_flat_pane was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_ghost_block was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_fluid_pipe was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_heavy_weighted_pressure_plate was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_iron_trapdoor was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_half_layer was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_stone_button was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_ladder was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_layer was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_slope was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_slope was corrected from null to its default, true. 
+[12Juli2026 01:53:49.145] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.copycat_vertical_half_layer was corrected from null to its default, true. 
+[12Juli2026 01:53:49.146] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.146] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.slopes was corrected from null to its default, true. 
+[12Juli2026 01:53:49.146] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.multistates was corrected from null to its default, true. 
+[12Juli2026 01:53:49.146] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.stackables was corrected from null to its default, true. 
+[12Juli2026 01:53:49.146] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.redstone was corrected from null to its default, true. 
+[12Juli2026 01:53:49.146] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.functional was corrected from null to its default, true. 
+[12Juli2026 01:53:49.146] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key feature_categories.create was corrected from null to its default, true. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\enderio\machines-common.toml is not correct. Correcting
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.alloySmelter was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.alloySmelter.capacity was corrected from null to its default, 64000. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.alloySmelter.usage was corrected from null to its default, 20. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.alloySmelter.vanillaItemEnergy was corrected from null to its default, 1500. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.crafter was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.crafter.capacity was corrected from null to its default, 64000. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.crafter.usage was corrected from null to its default, 3200. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.impulseHopper was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.impulseHopper.capacity was corrected from null to its default, 64000. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.impulseHopper.usage was corrected from null to its default, 16. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.poweredSpawner was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.poweredSpawner.capacity was corrected from null to its default, 100000. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.poweredSpawner.usage was corrected from null to its default, 20. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.sagMill was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.sagMill.capacity was corrected from null to its default, 64000. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.sagMill.usage was corrected from null to its default, 20. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.slicer was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.slicer.capacity was corrected from null to its default, 100000. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.slicer.usage was corrected from null to its default, 30. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.soulBinder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.soulBinder.capacity was corrected from null to its default, 128000. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.soulBinder.usage was corrected from null to its default, 60. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.stirlingGenerator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.stirlingGenerator.capacity was corrected from null to its default, 64000. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.stirlingGenerator.burnSpeed was corrected from null to its default, 0.375. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.stirlingGenerator.fuelEfficiencyBase was corrected from null to its default, 80. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.stirlingGenerator.fuelEfficiencyStep was corrected from null to its default, 20. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.stirlingGenerator.generation was corrected from null to its default, 40. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.paintingMachine was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.paintingMachine.capacity was corrected from null to its default, 64000. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.paintingMachine.usage was corrected from null to its default, 30. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.paintingMachine.energyCost was corrected from null to its default, 2400. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.photovoltaicCellRates was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.photovoltaicCellRates.energetic was corrected from null to its default, 4. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.photovoltaicCellRates.pulsating was corrected from null to its default, 16. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.photovoltaicCellRates.vibrant was corrected from null to its default, 64. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.capacitor_bank_capacity was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.capacitor_bank_capacity.basic was corrected from null to its default, 500000. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.capacitor_bank_capacity.advanced was corrected from null to its default, 2000000. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.capacitor_bank_capacity.vibrant was corrected from null to its default, 4000000. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.wiredCharger was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.wiredCharger.capacity was corrected from null to its default, 128000. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.wiredCharger.usage was corrected from null to its default, 30. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.soul_engine was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.soul_engine.capacity was corrected from null to its default, 100000. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.soul_engine.burnSpeed was corrected from null to its default, 1. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.soul_engine.generation was corrected from null to its default, 1.0. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.drain was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.drain.capacity was corrected from null to its default, 64000. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.drain.usage was corrected from null to its default, 10. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.aversion was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.aversion.capacity was corrected from null to its default, 64000. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key energy.aversion.usage was corrected from null to its default, 10. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchanter was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchanter.lapisCostFactor was corrected from null to its default, 3.0. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchanter.levelCostFactor was corrected from null to its default, 0.75. 
+[12Juli2026 01:53:49.153] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchanter.baseLevelCost was corrected from null to its default, 2. 
+[12Juli2026 01:53:49.154] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key poweredSpawner was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.154] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key poweredSpawner.spawn_amount was corrected from null to its default, 4. 
+[12Juli2026 01:53:49.154] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key poweredSpawner.maxentities was corrected from null to its default, 2. 
+[12Juli2026 01:53:49.154] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key poweredSpawner.Spawn Type was corrected from null to its default, ENTITYTYPE. 
+[12Juli2026 01:53:49.154] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key poweredSpawner.maxspawners was corrected from null to its default, 10. 
+[12Juli2026 01:53:49.155] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\enderio\armory-common.toml is not correct. Correcting
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.darksteelaxe was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.darksteelaxe.energyUsePerFelledLog was corrected from null to its default, 1500. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.darksteelpickaxe was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.darksteelpickaxe.obsidianBreakPowerUse was corrected from null to its default, 50. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.darksteelpickaxe.speedBoostWhenObsidian was corrected from null to its default, 50. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.darksteelpickaxe.useObsidianBreakSpeedAtHardness was corrected from null to its default, 30. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.efficiencyBoost was corrected from null to its default, 2. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.energyUsePerDamagePoint was corrected from null to its default, 750. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.activationCost_l1 was corrected from null to its default, 4. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.damageAbsorptionChance_l1 was corrected from null to its default, 0.5. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.maxEnergy_l1 was corrected from null to its default, 100000. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.activationCost_l2 was corrected from null to its default, 8. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.damageAbsorptionChance_l2 was corrected from null to its default, 0.6. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.maxEnergy_l2 was corrected from null to its default, 150000. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.activationCost_l3 was corrected from null to its default, 12. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.damageAbsorptionChance_l3 was corrected from null to its default, 0.7. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.maxEnergy_l3 was corrected from null to its default, 250000. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.activationCost_l4 was corrected from null to its default, 16. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.damageAbsorptionChance_l4 was corrected from null to its default, 0.85. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.empowered.maxEnergy_l4 was corrected from null to its default, 1000000. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.explosive was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.explosive.explosiveEnergyPerBlock was corrected from null to its default, 30. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.explosive.explosiveActivationCostI was corrected from null to its default, 8. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.explosive.explosiveI was corrected from null to its default, 1. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.explosive.explosiveActivationCostII was corrected from null to its default, 12. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.explosive.explosiveII was corrected from null to its default, 2. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.explosive.explosivePenetrationActivationCostI was corrected from null to its default, 8. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.explosive.explosivePenetrationI was corrected from null to its default, 1. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.explosive.explosivePenetrationActivationCostII was corrected from null to its default, 12. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.explosive.explosivePenetrationII was corrected from null to its default, 2. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.spoonActivationCost was corrected from null to its default, 4. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.forkActivationCost was corrected from null to its default, 4. 
+[12Juli2026 01:53:49.156] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key darksteel.upgrades.directActivationCost was corrected from null to its default, 4. 
+[12Juli2026 01:53:49.157] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\create-common.toml is not correct. Correcting
+[12Juli2026 01:53:49.158] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen was corrected from null to its default, SimpleCommentedConfig:{}. 
+[12Juli2026 01:53:49.158] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.disableWorldGen was corrected from null to its default, false. 
+[12Juli2026 01:53:49.159] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\sani2\AppData\Roaming\ModrinthApp\profiles\Skyfication\config\railways-common.toml is not correct. Correcting
+[12Juli2026 01:53:49.160] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key registerMissingTracks was corrected from null to its default, false. 
+[12Juli2026 01:53:49.160] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableDatafixer was corrected from null to its default, false. 
+[12Juli2026 01:53:49.165] [Worker-Main-12/INFO] [mekanism.common.Mekanism/]: Version 10.4.16 initializing...
+[12Juli2026 01:53:49.186] [Worker-Main-13/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[12Juli2026 01:53:49.202] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Starting version check at https://api.modrinth.com/updates/create-sifting/forge_updates.json
+[12Juli2026 01:53:49.232] [Worker-Main-10/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[12Juli2026 01:53:49.396] [Worker-Main-1/ERROR] [net.minecraft.client.resources.model.ModelManager/]: Failed to load model enderio:models/block/athena/basic_capacitor_bank_part.json
+com.google.gson.JsonParseException: Model loader 'athena:athena' not found. Registered loaders: mekanism:transmitter, forge:empty, mekanism:energy_cube, refinedstorage:disk_drive, enderio:conduit, enderio:modloaded, forge:elements, forge:obj, forge:fluid_container, forge:composite, forge:separate_transforms, refinedstorage:disk_manipulator, enderio:io_overlay, enderio:painted_block, forge:item_layers, mekanism:robit, refinedstorage:portable_grid
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserializeGeometry(ExtendedBlockModelDeserializer.java:97) ~[forge-1.20.1-47.1.106-universal.jar%23205!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:55) ~[forge-1.20.1-47.1.106-universal.jar%23205!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:38) ~[forge-1.20.1-47.1.106-universal.jar%23205!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2388!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.m_111461_(BlockModel.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.client.resources.model.ModelManager.m_246478_(ModelManager.java:110) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[12Juli2026 01:53:49.397] [Worker-Main-7/ERROR] [net.minecraft.client.resources.model.ModelManager/]: Failed to load model enderio:models/block/athena/vibrant_capacitor_bank_part.json
+com.google.gson.JsonParseException: Model loader 'athena:athena' not found. Registered loaders: mekanism:transmitter, forge:empty, mekanism:energy_cube, refinedstorage:disk_drive, enderio:conduit, enderio:modloaded, forge:elements, forge:obj, forge:fluid_container, forge:composite, forge:separate_transforms, refinedstorage:disk_manipulator, enderio:io_overlay, enderio:painted_block, forge:item_layers, mekanism:robit, refinedstorage:portable_grid
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserializeGeometry(ExtendedBlockModelDeserializer.java:97) ~[forge-1.20.1-47.1.106-universal.jar%23205!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:55) ~[forge-1.20.1-47.1.106-universal.jar%23205!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:38) ~[forge-1.20.1-47.1.106-universal.jar%23205!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2388!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.m_111461_(BlockModel.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.client.resources.model.ModelManager.m_246478_(ModelManager.java:110) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[12Juli2026 01:53:49.396] [Worker-Main-4/ERROR] [net.minecraft.client.resources.model.ModelManager/]: Failed to load model enderio:models/block/athena/advanced_capacitor_bank_part.json
+com.google.gson.JsonParseException: Model loader 'athena:athena' not found. Registered loaders: mekanism:transmitter, forge:empty, mekanism:energy_cube, refinedstorage:disk_drive, enderio:conduit, enderio:modloaded, forge:elements, forge:obj, forge:fluid_container, forge:composite, forge:separate_transforms, refinedstorage:disk_manipulator, enderio:io_overlay, enderio:painted_block, forge:item_layers, mekanism:robit, refinedstorage:portable_grid
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserializeGeometry(ExtendedBlockModelDeserializer.java:97) ~[forge-1.20.1-47.1.106-universal.jar%23205!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:55) ~[forge-1.20.1-47.1.106-universal.jar%23205!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:38) ~[forge-1.20.1-47.1.106-universal.jar%23205!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2388!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.m_111461_(BlockModel.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at net.minecraft.client.resources.model.ModelManager.m_246478_(ModelManager.java:110) ~[client-1.20.1-20230612.114412-srg.jar%23200!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[12Juli2026 01:53:49.452] [Worker-Main-12/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[12Juli2026 01:53:49.452] [Worker-Main-16/WARN] [net.minecraft.client.renderer.texture.SpriteContents/]: Unused frames in sprite refinedstorage:block/destructor/cutouts/connected: [20, 21, 22, 23]
+[12Juli2026 01:53:49.452] [Worker-Main-12/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[12Juli2026 01:53:49.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Found status: UP_TO_DATE Current: 1.20.1-1.8.6-6.0.6 Target: null
+[12Juli2026 01:53:49.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[12Juli2026 01:53:49.460] [Worker-Main-9/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Loaded template "default" from "default.nbt".
+[12Juli2026 01:53:49.463] [Worker-Main-16/WARN] [net.minecraft.client.renderer.texture.SpriteContents/]: Unused frames in sprite enderio:block/primitive_alloy_smelter_front_active: [4, 5]
+[12Juli2026 01:53:49.507] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 3.0.7+mc.1.20.1-forge Target: null
+[12Juli2026 01:53:49.507] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Starting version check at https://maxhenkel.de/update/pipez.json
+[12Juli2026 01:53:49.558] [Worker-Main-16/WARN] [net.minecraft.client.renderer.texture.SpriteContents/]: Unused frames in sprite enderio:block/alloy_smelter_front_active: [4, 5]
+[12Juli2026 01:53:49.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Found status: UP_TO_DATE Current: 1.20.1-1.2.5 Target: null
+[12Juli2026 01:53:49.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Starting version check at https://assets.melanx.de/updates/libx.json
+[12Juli2026 01:53:49.815] [Worker-Main-16/WARN] [net.minecraft.client.renderer.texture.SpriteLoader/]: Texture enderio:block/item_conduit_in with size 24x24 limits mip level from 4 to 3
+[12Juli2026 01:53:49.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Found status: AHEAD Current: 1.20.1-5.0.14 Target: null
+[12Juli2026 01:53:49.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [skyblockbuilder] Starting version check at https://assets.melanx.de/updates/skyblock-builder.json
+[12Juli2026 01:53:49.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [skyblockbuilder] Found status: OUTDATED Current: 1.20.1-5.1.28 Target: 1.20.1-5.1.33
+[12Juli2026 01:53:49.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [exnihilosequentia] Starting version check at https://api.modrinth.com/updates/WhVa4xyw/forge_updates.json
+[12Juli2026 01:53:49.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [exnihilosequentia] Found status: UP_TO_DATE Current: 5.0.0 Target: null
+[12Juli2026 01:53:49.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [novacore] Starting version check at https://api.modrinth.com/updates/engHtMVe/forge_updates.json
+[12Juli2026 01:53:50.024] [Worker-Main-9/INFO] [mekanism.common.Mekanism/]: Initialized HolidayManager.
+[12Juli2026 01:53:50.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [novacore] Found status: BETA Current: 1.0.0 Target: null
+[12Juli2026 01:53:50.874] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'exnihilosequentia:witch_water#inventory' referenced from: exnihilosequentia:witch_water#inventory: java.io.FileNotFoundException: exnihilosequentia:models/item/witch_water.json
+[12Juli2026 01:53:50.875] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'exnihilosequentia:sea_water#inventory' referenced from: exnihilosequentia:sea_water#inventory: java.io.FileNotFoundException: exnihilosequentia:models/item/sea_water.json
+[12Juli2026 01:53:50.875] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'refinedstorage:cover#inventory' referenced from: refinedstorage:cover#inventory: java.io.FileNotFoundException: refinedstorage:models/item/cover.json
+[12Juli2026 01:53:50.875] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'refinedstorage:hollow_cover#inventory' referenced from: refinedstorage:hollow_cover#inventory: java.io.FileNotFoundException: refinedstorage:models/item/hollow_cover.json
+[12Juli2026 01:53:51.899] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:refined_storage_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:51.900] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:ender_fluid_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:51.900] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:pressurized_chemical_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:51.900] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:pressurized_fluid_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:51.900] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:chemical_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:51.900] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:redstone_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:51.900] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:item_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:51.900] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:heat_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:51.900] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:energy_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:51.900] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:ender_chemical_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:51.900] [Worker-Main-7/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model enderio:fluid_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[12Juli2026 01:53:52.217] [Worker-Main-15/INFO] [PonderIndex/]: Registering Ponder Scenes took 53.68 ms
+[12Juli2026 01:53:52.221] [Worker-Main-15/INFO] [PonderIndex/]: Registering Ponder Tags took 3.316 ms
+[12Juli2026 01:53:54.204] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[12Juli2026 01:53:54.204] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[12Juli2026 01:53:54.311] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Logitech Z313 (Realtek(R) Audio)
+[12Juli2026 01:53:54.312] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[12Juli2026 01:53:54.389] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[12Juli2026 01:53:54.423] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[12Juli2026 01:53:54.423] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12Juli2026 01:53:54.423] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12Juli2026 01:53:54.423] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[12Juli2026 01:53:54.425] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[12Juli2026 01:53:54.428] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[12Juli2026 01:53:54.428] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[12Juli2026 01:53:54.428] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[12Juli2026 01:53:54.543] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[12Juli2026 01:53:54.609] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x0 minecraft:textures/atlas/particles.png-atlas
+[12Juli2026 01:53:54.611] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[12Juli2026 01:53:54.613] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12Juli2026 01:53:54.614] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 mekanism:textures/atlas/robit.png-atlas
+[12Juli2026 01:53:54.614] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 enderio:textures/atlas/conduit_icons.png-atlas
+[12Juli2026 01:53:54.635] [Render thread/INFO] [flywheel/backend/shaders/]: Loaded 77 shader sources in 15,950 ms
+[12Juli2026 01:53:54.666] [Render thread/INFO] [com.simibubi.create.Create/]: Loaded 57 train hat configurations.
+[12Juli2026 01:53:58.705] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[12Juli2026 01:53:58.712] [Render thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Loaded template "default" from "default.nbt".
