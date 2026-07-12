@@ -91,7 +91,6 @@ jobs:
                 --argjson featured "$featured" \
                 --argjson game_versions '${{ inputs.game_versions }}' \
                 --argjson loaders '${{ inputs.loaders }}' \
-                --argjson mrpack_loaders '["mrpack"]' \
                 --argjson dependencies "$dependencies" \
                 '{
                     name: $name,
@@ -99,7 +98,6 @@ jobs:
                     project_id: "${{ inputs.project_id }}",
                     game_versions: $game_versions,
                     loaders: $loaders,
-                    mrpack_loaders: $mrpack_loaders,
                     featured: $featured,
                     release_channel: $channel,
                     changelog: .,
