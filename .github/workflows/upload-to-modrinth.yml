@@ -126,7 +126,6 @@ jobs:
                     # Sends both json metadata and the modpack binary using multipart/form-data
                     response=$(curl -s -w "\n%{http_code}" -X POST https://api.modrinth.com/v2/version \
                         -H "Authorization: $MODRINTH_TOKEN" \
-                        -H "Content-Type: multipart/form-data" \
                         -F "data=@version.json;type=application/json" \
                         -F "file=@$ASSET_NAME;type=application/x-modrinth-modpack+zip")
 
