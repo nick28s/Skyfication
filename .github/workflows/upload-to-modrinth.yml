@@ -91,7 +91,8 @@ jobs:
                 --arg environment "client_only_server_optional" \
                 --argjson featured "$featured" \
                 --argjson game_versions '${{ inputs.game_versions }}' \
-                --argjson loaders '${{ inputs.loaders }}' \
+                --argjson loaders '["mrpack"]' \
+                --argjson mrpack_loaders '${{ inputs.loaders }}' \
                 --argjson dependencies "$dependencies" \
                 '{
                     name: $name,
@@ -99,6 +100,7 @@ jobs:
                     project_id: "${{ inputs.project_id }}",
                     game_versions: $game_versions,
                     loaders: $loaders,
+                    mrpack_loaders: $mrpack_loaders,
                     environment: $environment,
                     featured: $featured,
                     release_channel: $channel,
@@ -124,7 +126,7 @@ jobs:
                     echo "Attempt $attempt of $max_retries"
 
                     # Sends both json metadata and the modpack binary using multipart/form-data
-                    response=$(curl -s -w "\n%{http_code}" -X POST https://api.modrinth.com/v2/version \
+                    response=$(curl -s -w "\n%{http_code}" -X POST https://api.modrinth.com/v3/version \
                         -H "Authorization: $MODRINTH_TOKEN" \
                         -F "data=@version.json;type=application/json" \
                         -F "file=@$ASSET_NAME;type=application/x-modrinth-modpack+zip")
