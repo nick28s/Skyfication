@@ -12,6 +12,6 @@ jobs:
     with:
       project_id: "bdrgMMto" # Your Modrinth Project ID
       game_versions: '["1.20.1"]' # Supported Minecraft versions
-      loaders: '["minecraft"]' # Keep "minecraft" for modpacks
+      loaders: '["neoforge"]' # Keep "minecraft" for modpacks
     secrets:
       MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
