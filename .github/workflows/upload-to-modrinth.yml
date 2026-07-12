@@ -90,7 +90,7 @@ jobs:
                 --arg channel "$channel" \
                 --argjson featured "$featured" \
                 --argjson game_versions '${{ inputs.game_versions }}' \
-                --argjson loaders '["mrpack"]' \
+                --argjson loaders '["neoforge"]' \
                 --argjson mrpack_loaders '${{ inputs.loaders }}' \
                 --argjson dependencies "$dependencies" \
                 '{
