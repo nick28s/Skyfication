@@ -1,0 +1,10 @@
+// Compost colors for refinedstorage_mekanism_integration. You may add your own colors, change existing ones, or remove colors that aren't needed.
+1024b_chemical_storage_disk, #cdcdc3
+1024b_chemical_storage_part, #eaf8fa
+256b_chemical_storage_disk, #d0ccc0
+256b_chemical_storage_part, #ffffff
+64b_chemical_storage_disk, #cdcfc2
+64b_chemical_storage_part, #ffffff
+8192b_chemical_storage_disk, #d0cdc3
+8192b_chemical_storage_part, #e7dae6
+creative_chemical_storage_disk, #cfcac2

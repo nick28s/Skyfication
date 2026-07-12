@@ -1,3 +1,9 @@
-logs/
-crash-reports/
-options.txt
+/logs/
+/crash-reports/
+/options.txt
+/saves/
+/usercache.json
+/usernamecache.json
+/downloads/
+/emi.json
+/.mixin.out/

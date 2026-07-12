@@ -1,0 +1,19 @@
+// Compost colors for create_more_additions. You may add your own colors, change existing ones, or remove colors that aren't needed.
+crushed_raw_silver, #c0e0f1
+electrum_armor_boots, #ffe48e
+electrum_armor_chestplate, #ffff8d
+electrum_armor_helmet, #ffca72
+electrum_armor_leggings, #fffc9d
+electrum_axe, #eac66e
+electrum_door, #ffffa2
+electrum_hoe, #ab874b
+electrum_jewel, #ffffaf
+electrum_pickaxe, #c89d5a
+electrum_shovel, #cfac61
+electrum_sword, #ffe88e
+incomplete_totem, #fcb966
+raw_silver, #bbdded
+silver_door, #e3ffff
+silver_ingot, #c3e1f0
+silver_jewel, #f5ffff
+silver_nugget, #bedeed

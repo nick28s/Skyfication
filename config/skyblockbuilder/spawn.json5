@@ -1,7 +1,4 @@
 {
-  // The dimension the islands will be generated in.
-  "dimension": "minecraft:overworld",
-  
   // The blocks which you can interact with within the spawn protection
   // This is a resource list. See https://moddingx.org/libx/org/moddingx/libx/util/data/ResourceList.html#use_resource_lists_in_configs
   "interactionBlocksInSpawnProtection": {
@@ -32,11 +29,14 @@
   
   // The radius to find a valid spawn if no given spawn is valid
   // Minimum: 0
-  "radius": 50,
+  "radiusToFindValidSpawn": 50,
   
   // If set to true, the first island will not be generated at 0 ~ 0, but start with the next coordinate.
   // Useful if end dimension is used for spawns.
   "skipCenterIslandCreation": false,
+  
+  // The dimension the islands will be generated in.
+  "spawnDimension": "minecraft:overworld",
   
   // A list of event types which will be prevented:
   //    interact_entities = Interacting with entities, e.g. riding a pig
@@ -67,7 +67,18 @@
   
   "Height": {
   
-    // If the spawn height type is set to "range", this offset will be used to slightly move the spawn height in any direction.
+    // set:
+    //    Uses the bottom height of the 'range' setting
+    // range_top:
+    //    Searches from the top position down to the bottom position for a valid spawn.
+    //    If no valid position was found, the top position will be used.
+    // range_bottom:
+    //    Searches from the top position down to the bottom position for a valid spawn.
+    //    If no valid position was found, the bottom position will be used.
+    // Allowed values: set, range_bottom, range_top
+    "heightCalculationType": "set",
+    
+    // If the spawn height calculation type is set to "range", this offset will be used to slightly move the spawn height in any direction.
     // Negative values go down, positive values go up.
     "offset": 0,
     
@@ -76,17 +87,6 @@
     "range": {
       "bottom": 64,
       "top": 319
-    },
-    
-    // set:
-    //    Uses the bottom height of the range
-    // range_top:
-    //    Searches from the top position down to the bottom position for a valid spawn.
-    //    If no valid position was found, the top position will be used.
-    // range_bottom:
-    //    Searches from the top position down to the bottom position for a valid spawn.
-    //    If no valid position was found, the bottom position will be used.
-    // Allowed values: set, range_bottom, range_top
-    "spawnType": "set"
+    }
   }
 }
