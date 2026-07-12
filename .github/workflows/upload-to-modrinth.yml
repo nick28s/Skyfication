@@ -91,7 +91,6 @@ jobs:
                 --argjson featured "$featured" \
                 --argjson game_versions '${{ inputs.game_versions }}' \
                 --argjson loaders '["neoforge"]' \
-                --argjson mrpack_loaders '${{ inputs.loaders }}' \
                 --argjson dependencies "$dependencies" \
                 '{
                     name: $name,
@@ -99,7 +98,6 @@ jobs:
                     project_id: "${{ inputs.project_id }}",
                     game_versions: $game_versions,
                     loaders: $loaders,
-                    mrpack_loaders: $mrpack_loaders,
                     environment: "client_only_server_optional",
                     featured: $featured,
                     release_channel: $channel,
