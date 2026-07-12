@@ -100,7 +100,7 @@ jobs:
                     game_versions: $game_versions,
                     loaders: $loaders,
                     mrpack_loaders: $mrpack_loaders,
-                    environment: "required",
+                    environment: "client_only_server_optional",
                     featured: $featured,
                     release_channel: $channel,
                     changelog: .,
