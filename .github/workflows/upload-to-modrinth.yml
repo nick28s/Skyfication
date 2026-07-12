@@ -90,16 +90,16 @@ jobs:
                 --arg channel "$channel" \
                 --argjson featured "$featured" \
                 --argjson game_versions '${{ inputs.game_versions }}' \
+                --argjson input_loaders '${{ inputs.loaders }}' \
                 --argjson loaders '["mrpack"]' \
-                --argjson mrpack_loaders '${{ inputs.loaders }}' \
                 --argjson dependencies "$dependencies" \
                 '{
                     name: $name,
                     version_number: $version,
                     project_id: "${{ inputs.project_id }}",
                     game_versions: $game_versions,
-                    loaders: $loaders,
-                    mrpack_loaders: $mrpack_loaders,
+                    loaders: ($loaders + $input_loaders),
+                    mrpack_loaders: $input_loaders,
                     environment: "client_only_server_optional",
                     featured: $featured,
                     release_channel: $channel,
