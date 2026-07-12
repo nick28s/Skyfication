@@ -88,7 +88,6 @@ jobs:
                 --arg version "${{ github.ref_name }}" \
                 --arg file "$ASSET_NAME" \
                 --arg channel "$channel" \
-                --arg environment "client_only_server_optional" \
                 --argjson featured "$featured" \
                 --argjson game_versions '${{ inputs.game_versions }}' \
                 --argjson loaders '${{ inputs.loaders }}' \
@@ -101,7 +100,6 @@ jobs:
                     game_versions: $game_versions,
                     loaders: $loaders,
                     mrpack_loaders: $mrpack_loaders,
-                    environment: $environment,
                     featured: $featured,
                     release_channel: $channel,
                     changelog: .,
