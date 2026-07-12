@@ -1,0 +1,48 @@
+name: Publish on Release
+
+on:
+  release:
+    types: [ published ] # Triggers the action ONLY when you publish a new release on GitHub
+
+jobs:
+  publish:
+    name: Publish
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Set up Java
+        uses: actions/setup-java@v5
+        with:
+          java-version: 17 # Change this to your project's Java version (e.g., 17, 21)
+          distribution: 'temurin'
+          cache: maven
+
+      # This step takes the version tag from your GitHub Release (e.g., v1.2.3) 
+      # and injects it into your pom.xml right before building.
+      - name: Set version from release tag
+        run: mvn -B versions:set -DnewVersion=${{ github.event.release.tag_name }} -DgenerateBackupPoms=false
+
+      - name: Build and package with Maven
+        run: mvn -B clean package --file pom.xml
+
+      - name: Upload to Modrinth
+        uses: cloudnode-pro/modrinth-publish@v2
+        with:
+          token: ${{ secrets.MODRINTH_TOKEN }}
+          project: bdrgMMto  # <--- REPLACE WITH YOUR ACTUAL MODRINTH PROJECT ID
+          
+          # Automatically pulls name, version tag, and text from your GitHub Release
+          name: ${{ github.event.release.name }}
+          version: ${{ github.event.release.tag_name }}
+          changelog: ${{ github.event.release.body }}
+          
+          # Adjust the loaders and game versions to match your project
+          loaders: |-
+            neoforge
+          game-versions: |-
+            1.20.1
+            
+          # Uses the version tag to find the exact file name (e.g., YourProject-v1.2.3.jar)
+          files: target/YourProject-${{ github.event.release.tag_name }}.jar
