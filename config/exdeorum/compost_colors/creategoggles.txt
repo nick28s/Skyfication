@@ -1,0 +1,14 @@
+// Compost colors for creategoggles. You may add your own colors, change existing ones, or remove colors that aren't needed.
+goggle_armor_trim_smithing_template, #72807f
+goggle_cardboard_helmet, #d7aa72
+goggle_chainmail_helmet, #757066
+goggle_diamond_helmet, #48877f
+goggle_diving_helmet, #c6664d
+goggle_golden_helmet, #bc9a37
+goggle_iron_helmet, #797368
+goggle_leather_helmet, #919191
+goggle_netherite_diving_helmet, #8d6855
+goggle_netherite_helmet, #5e5148
+goggle_turtle_helmet, #529d4d
+modifier_remover, #f2b473
+module_goggle_unit, #d6cac2
