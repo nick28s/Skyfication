@@ -91,8 +91,8 @@ jobs:
                 --arg environment "client_only_server_optional" \
                 --argjson featured "$featured" \
                 --argjson game_versions '${{ inputs.game_versions }}' \
-                --argjson loaders '["mrpack"]' \
-                --argjson mrpack_loaders '${{ inputs.loaders }}' \
+                --argjson loaders '${{ inputs.loaders }}' \
+                --argjson mrpack_loaders '["mrpack"]' \
                 --argjson dependencies "$dependencies" \
                 '{
                     name: $name,
