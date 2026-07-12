@@ -7,3 +7,7 @@
 /downloads/
 /emi.json
 /.mixin.out/
+logs/
+crash-reports/
+options.txt
+saves/

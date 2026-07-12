@@ -1,0 +1,163 @@
+name: Upload to Modrinth
+
+on:
+    workflow_call:
+        inputs:
+            project_id:
+                required: true
+                type: string
+            game_versions:
+                required: true
+                type: string
+            loaders:
+                required: true
+                type: string
+            dependencies:
+                required: false
+                type: string
+        secrets:
+            MODRINTH_TOKEN:
+                required: true
+
+jobs:
+    upload-to-modrinth:
+        runs-on: ubuntu-latest
+
+        steps:
+          - name: Checkout
+            uses: actions/checkout@v4
+
+          - name: Get MRPACK asset name from release
+            id: get-mrpack
+            env:
+                GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            run: |
+                echo "Fetching release info..."
+                api_url="https://api.github.com/repos/${{ github.repository }}/releases/tags/${{ github.ref_name }}"
+                release_info=$(curl -s -H "Authorization: token $GH_TOKEN" "$api_url")
+                
+                # Save release body text as the changelog
+                echo "$release_info" | jq -r '.body' > changelog.txt
+
+                # Filter release assets to find the .mrpack file
+                pack_name=$(echo "$release_info" | jq -r '.assets[] | select(.name | endswith(".mrpack")) | .name' | head -n 1)
+
+                if [ -z "$pack_name" ]; then
+                    echo "No .mrpack asset found in release!"
+                    exit 1
+                fi
+
+                # Export filename to environmental variables for subsequent steps
+                echo "ASSET_NAME=$pack_name" >> $GITHUB_ENV
+
+          - name: Download the MRPACK from the release
+            env:
+                GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            run: |
+                echo "Downloading asset: $ASSET_NAME"
+                asset_id=$(curl -s -H "Authorization: token $GH_TOKEN" https://api.github.com/repos/${{ github.repository }}/releases/tags/${{ github.ref_name }} | jq '.assets[] | select(.name=="'"$ASSET_NAME"'") | .id')
+                curl -L -H "Authorization: token $GH_TOKEN" -H "Accept: application/octet-stream" \
+                    "https://api.github.com/repos/${{ github.repository }}/releases/assets/$asset_id" \
+                    -o "$ASSET_NAME"
+
+          - name: Prepare Modrinth metadata
+            run: |
+                # Check if GitHub release is flagged as a prerelease
+                prerelease=${{ github.event.release.prerelease }}
+                if [ "$prerelease" = "true" ]; then
+                    echo "Prerelease detected — setting to beta and not featured"
+                    channel="beta"
+                    featured=false
+                else
+                    channel="release"
+                    if [[ "$IS_LATEST" == "true" ]]; then
+                        echo "Latest release — setting as featured"
+                        featured=true
+                    else
+                        echo "Not latest — not featured"
+                        featured=false
+                    fi
+                fi
+
+                dependencies='${{ inputs.dependencies }}'
+                [ -z "$dependencies" ] && dependencies="[]"
+
+                # Generate the required metadata JSON payload for Modrinth API
+                jq -Rs \
+                --arg name "${{ github.event.release.name }}" \
+                --arg version "${{ github.ref_name }}" \
+                --arg file "$ASSET_NAME" \
+                --arg channel "$channel" \
+                --argjson featured "$featured" \
+                --argjson game_versions '${{ inputs.game_versions }}' \
+                --argjson input_loaders '${{ inputs.loaders }}' \
+                --argjson loaders '["mrpack"]' \
+                --argjson dependencies "$dependencies" \
+                '{
+                    name: $name,
+                    version_number: $version,
+                    project_id: "${{ inputs.project_id }}",
+                    game_versions: $game_versions,
+                    loaders: ["mrpack"],
+                    mrpack_loaders: $input_loaders,
+                    environment: "client_only_server_optional",
+                    featured: $featured,
+                    release_channel: $channel,
+                    changelog: .,
+                    dependencies: $dependencies,
+                    file_parts: [$file]
+                }' < changelog.txt > version.json
+
+          - name: Upload to Modrinth via API
+            env:
+                MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+            run: |
+                set -e
+
+                echo "Uploading to Modrinth..."
+
+                max_retries=3
+                attempt=1
+                sleep_time=5
+
+                # API request loop with basic error handling/retries
+                while [ "$attempt" -le "$max_retries" ]; do
+                    echo "Attempt $attempt of $max_retries"
+
+                    # Sends both json metadata and the modpack binary using multipart/form-data
+                    response=$(curl -s -w "\n%{http_code}" -X POST https://api.modrinth.com/v3/version \
+                        -H "Authorization: $MODRINTH_TOKEN" \
+                        -F "data=@version.json;type=application/json" \
+                        -F "file=@$ASSET_NAME;type=application/x-modrinth-modpack+zip")
+
+                    body=$(echo "$response" | head -n -1)
+                    status=$(echo "$response" | tail -n 1)
+
+                    echo "Response Status: $status"
+
+                    if [[ "$status" -eq 200 || "$status" -eq 201 ]]; then
+                        echo "Successfully uploaded to Modrinth!"
+                        break
+                    elif [[ "$status" -ge 500 ]]; then
+                        echo "Server error ($status), retrying in $sleep_time seconds..."
+                        sleep "$sleep_time"
+                        attempt=$((attempt + 1))
+                        continue
+                    else
+                        echo "Upload failed with status $status"
+                        echo "Modrinth Error:"
+
+                        if command -v jq &> /dev/null; then
+                            echo "$body" | jq
+                        else
+                            echo "$body"
+                        fi
+
+                        exit 1
+                    fi
+                done
+
+                if [[ "$attempt" -gt "$max_retries" ]]; then
+                    echo "Upload failed after $max_retries attempts. Giving up."
+                    exit 1
+                fi

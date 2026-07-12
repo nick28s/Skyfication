@@ -1,0 +1,17 @@
+# name: Trigger Modrinth Upload
+
+# on:
+#   release:
+#     types: [published] # This actively listens for your GitHub Release
+
+# jobs:
+#   call-upload-workflow:
+#     # This points directly to your upload script. 
+#     # Replace 'YOUR_GITHUB_USERNAME' and 'YOUR_REPO_NAME' with your actual info!
+#     uses: nick28s/Skyfication/.github/workflows/upload-to-modrinth.yml@main
+#     with:
+#       project_id: "bdrgMMto" # Your Modrinth Project ID
+#       game_versions: '["1.20.1"]' # Supported Minecraft versions
+#       loaders: '["neoforge"]'
+#     secrets:
+#       MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
