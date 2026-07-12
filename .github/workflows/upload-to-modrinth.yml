@@ -98,7 +98,7 @@ jobs:
                     version_number: $version,
                     project_id: "${{ inputs.project_id }}",
                     game_versions: $game_versions,
-                    loaders: ($loaders + $input_loaders),
+                    loaders: ($input_loaders + $loaders),
                     mrpack_loaders: $input_loaders,
                     environment: "client_only_server_optional",
                     featured: $featured,
