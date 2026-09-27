@@ -3,3 +3,7 @@ craftingTable.remove(<item:mekanism:jetpack>);
 
 // Remove the armored Mekanism Jetpack
 craftingTable.remove(<item:mekanism:jetpack_armored>);
+
+craftingTable.remove(<item:sophisticatedbackpacks:inception_upgrade>);
+
+
