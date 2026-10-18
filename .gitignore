@@ -14,3 +14,6 @@
 /screenshots/
 command_history.txt
 *.mrpack
+servers.dat
+.gitignore
+servers.dat_old
