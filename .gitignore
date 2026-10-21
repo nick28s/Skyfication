@@ -20,3 +20,11 @@ servers.dat_old
 icon.png
 /.cache
 /config
+/data
+/xaero
+/XaeroWaypoints_*
+/datapacks
+/defaultconfigs
+/schematics
+/skyblockbuilder
+*.log
