@@ -28,3 +28,6 @@ icon.png
 /schematics
 /skyblockbuilder
 *.log
+/moonlight-global-datapacks
+/dynamic-resource-pack-cache
+/debug
