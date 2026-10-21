@@ -1,0 +1,4 @@
+[23:19:43] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[23:19:43] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE simplevoiceanimations 1.3.1+26.2 {depends minecraft @ [26.2.x]}, ROOT_FORCELOAD_SINGLE simplevoiceanimations 1.3.1+26.2]
+[23:19:43] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP simplevoiceanimations 1.3.1+26.2 {depends minecraft @ [26.2.x]}, NEG_HARD_DEP simplevoiceanimations 1.3.1+26.2 {breaks fabric-api @ [<0.152.1+26.2]}]
+[23:19:43] [INFO] [FabricLoader/Resolution]: Fix: add [], remove [], replace [[simplevoiceanimations 1.3.1+26.2] -> add:simplevoiceanimations 1 ([(-∞,∞)])]

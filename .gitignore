@@ -18,3 +18,5 @@ servers.dat
 .gitignore
 servers.dat_old
 icon.png
+/.cache
+/config
