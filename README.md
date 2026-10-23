@@ -10,7 +10,7 @@
 
 * ⚙️ **Kinetic Automation with Create:** Built around **Create 0.6** and its best addons (*Create Sifter*, *New Age*, *Enchantment Industry*, *Copycats*, *Design 'n' Decor*). Automate early-game resource processing using kinetic energy and mechanical contraptions.
   
-* ⚡ **Heavy Industry & Power:** Transition into high-tech power grids with **Mekanism**, **Ender IO**, **Powah!**, and **Immersive Engineering**. Generate massive amounts of RF, process ores efficiently, and build automated machine setups.
+* ⚡ **Heavy Industry & Power:** Transition into high-tech power grids with **Mekanism**, **Ender IO** and **Immersive Engineering**. Generate massive amounts of RF, process ores efficiently, and build automated machine setups.
  
 * 🪨 **Skyblock Resource Loop:** Early resource generation is powered by **Ex Deorum** and **Ex Machinis**, giving you a structured way to turn gravel, sand, and dust into raw materials and ores.
   
