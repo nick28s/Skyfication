@@ -1,0 +1,30 @@
+RecipeViewerEvents.addInformation("item", (event) => {
+  event.add(
+    [
+      "minecraft:kelp",
+      "minecraft:pitcher_pod",
+      "minecraft:torchflower_seeds",
+      "minecraft:oak_sapling",
+      "minecraft:spruce_sapling",
+      "minecraft:birch_sapling",
+      "minecraft:jungle_sapling",
+      "minecraft:acacia_sapling",
+      "minecraft:dark_oak_sapling",
+      "minecraft:cherry_sapling",
+      "minecraft:pumpkin_seeds",
+      "minecraft:melon_seeds",
+      "minecraft:beetroot_seeds",
+      "farmersdelight:cabbage_seeds",
+      "farmersdelight:tomato_seeds",
+      "minecraft:mangrove_propagule",
+      "minecraft:cocoa_beans",
+      "minecraft:sea_pickle",
+      "minecraft:sweet_berries",
+      "minecraft:bamboo",
+      "farmersdelight:wild_rice",
+      "farmersdelight:onion",
+      "minecraft:turtle_egg",
+    ],
+    "A Sniffer can find it!"
+  );
+});
