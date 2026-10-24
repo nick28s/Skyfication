@@ -28,3 +28,11 @@ RecipeViewerEvents.addInformation("item", (event) => {
     "A Sniffer can find it!"
   );
 });
+
+
+RecipeViewerEvents.addInformation('fluid', event => {
+  event.add(
+    "exdeorum:witch_water",
+    "Place a Ex Deorum Barrel on top of Mycelium and wait."
+  )
+})
