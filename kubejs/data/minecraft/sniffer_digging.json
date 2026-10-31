@@ -118,7 +118,12 @@
           "type": "minecraft:item",
           "weight": 1,
           "name": "minecraft:torchflower_seeds"
-        }        
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "supplementaries:flax_seeds"
+        } 
       ]
     }
   ],

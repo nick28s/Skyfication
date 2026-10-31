@@ -24,6 +24,7 @@ RecipeViewerEvents.addInformation("item", (event) => {
       "farmersdelight:wild_rice",
       "farmersdelight:onion",
       "minecraft:turtle_egg",
+      "supplementaries:flax_seeds"
     ],
     "A Sniffer can find it!"
   );
